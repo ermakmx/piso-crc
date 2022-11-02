@@ -1,0 +1,16 @@
+{
+  "name": "piso-crc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "simple-ssh": "^1.1.0",
+    "ssh2": "^1.11.0"
+  }
+}
